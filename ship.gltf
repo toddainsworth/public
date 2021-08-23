@@ -124,7 +124,7 @@
   "buffers": [
     {
       "byteLength": 28320,
-      "uri": "scene.bin"
+      "uri": "ship.gltf"
     }
   ],
   "extensionsUsed": [
